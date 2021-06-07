@@ -1,6 +1,6 @@
 <template>
     <div>
-        存储
+       <p>存储</p>
     </div>
 </template>
 

@@ -1,4 +1,4 @@
-# demo
+# RabbitMq Tool
 
 ## Project setup
 ```

@@ -1,14 +1,15 @@
 <template>
     <div>
-        登陆
+        技术文章
     </div>
 </template>
 
 <script>
-    export default {//js逻辑
-        name: "login"
+    export default {
+        name: "technicalArticles"
     }
 </script>
 
 <style scoped>
+
 </style>
